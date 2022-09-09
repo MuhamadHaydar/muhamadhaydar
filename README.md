@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ## :sassy_man:  About me
 - :school: I am a `Senior Mobile Application Developer - Android/IOS` at Dwrandaz, Saydo, Sivix
 - :technologist: I desire to look a solution for every `Problem`
-- :student: I’m currently learning: `Web Development` and `Project Coordinating`.
+- :student: I’m currently learning: `Web Development` and `Project Coordinating` and 'backend-dev' .
 - :thinking: I’m currently open for: `Freelance` or a new `Remote`, this is [MY RESUME](https://drive.google.com/file/d/11lL7wLZMLxOrauKJHynta9Tqobx21HUa/view?usp=sharing).
 - :nerd_face: Always `learning new things`
 
