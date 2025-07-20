@@ -1,184 +1,189 @@
-
 <!--
 **MuhamadHaydar/muhamadhaydarJawad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi , I'm Muhamad Haydar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Muhamad Haydar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Senior+Mobile+Application+Developer;Flutter+%26+Dart+Specialist;Cross-Platform+Mobile+Expert;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
 
-## :sassy_man:  About me
-- :school: I am a `Senior Mobile Application Developer - Android/IOS` at Dwrandaz, Saydo, Sivix
-- :technologist: I desire to look a solution for every `Problem`
-- :thinking: I’m currently open for: `Freelance` or a new `Remote`, this is [MY RESUME](https://drive.google.com/file/d/11lL7wLZMLxOrauKJHynta9Tqobx21HUa/view?usp=sharing).
-- :nerd_face: Always `learning new things`
+## 🚀 Flutter & Mobile Development Expert
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Flutter-Expert-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-Advanced-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mobile%20Dev-5%2B%20Years-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cross%20Platform-iOS%20%26%20Android-4CAF50?style=for-the-badge" />
+</div>
+
+## :sassy_man: About me
+- 🏢 Senior Mobile Application Developer at **Dwrandaz, Saydo, Sivix**
+- 🎯 **Flutter Specialist** with expertise in cross-platform mobile development
+- 🔍 Problem solver who loves finding elegant solutions for complex challenges
+- 💼 Currently open for **Freelance** projects or **Remote** opportunities → [MY RESUME](https://drive.google.com/file/d/11lL7wLZMLxOrauKJHynta9Tqobx21HUa/view?usp=sharing)
+- 📱 Passionate about creating beautiful, performant mobile applications
+- 🌱 Always learning new technologies and staying updated with Flutter ecosystem
 
 <br>
 
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=muhamadhaydar&theme=algolia" alt="muhamadhaydar" /></p>
+## 🔥 GitHub Stats & Streak
 
-<br>
-<br>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhamadhaydar&theme=tokyonight&hide_border=true&stroke=0000&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhamadhaydar&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&icon_color=00D9FF&title_color=00D9FF" alt="GitHub Stats" width="49%" />
+</div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhamadhaydar&layout=compact&theme=tokyonight&hide_border=true&title_color=00D9FF&langs_count=8" alt="Top Languages" width="50%" />
+</div>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+## 🛠️ Technical Skills
+
+### 🎯 Core Mobile Technologies
+
+<div align="center">
+  
+| **Flutter & Dart** | **Native Development** | **Cross-Platform** |
+|:---:|:---:|:---:|
+| ![Flutter](https://img.shields.io/badge/Flutter-Expert-02569B?style=plastic&logo=flutter&logoColor=white) | ![Android](https://img.shields.io/badge/Android-Advanced-3DDC84?style=plastic&logo=android&logoColor=white) | ![React Native](https://img.shields.io/badge/React_Native-Intermediate-61DAFB?style=plastic&logo=react&logoColor=black) |
+| ![Dart](https://img.shields.io/badge/Dart-Advanced-0175C2?style=plastic&logo=dart&logoColor=white) | ![iOS](https://img.shields.io/badge/iOS-Advanced-000000?style=plastic&logo=ios&logoColor=white) | ![Xamarin](https://img.shields.io/badge/Xamarin-Intermediate-3498DB?style=plastic&logo=xamarin&logoColor=white) |
+| ![Firebase](https://img.shields.io/badge/Firebase-Advanced-FFCA28?style=plastic&logo=firebase&logoColor=black) | ![Java](https://img.shields.io/badge/Java-Advanced-007396?style=plastic&logo=java&logoColor=white) | ![Kotlin](https://img.shields.io/badge/Kotlin-Intermediate-7F52FF?style=plastic&logo=kotlin&logoColor=white) |
+
+</div>
+
+### 🚀 Flutter Expertise
+
 <p align="center">
-	<a href="mailto:muhamad.haydar@24group.net"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/muhamadhaydar"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://wa.me/9647507171446?text="><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="https://www.linkedin.com/in/muhamadhaydarjawad/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/muhamad.hayder"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
-	<a href="tg://msg?text=%22Hello%22&to=+9647507171446"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <img src="https://img.shields.io/badge/State%20Management-BLoC%20%7C%20Provider%20%7C%20Riverpod-02569B?style=for-the-badge&logo=flutter" />
+  <img src="https://img.shields.io/badge/UI%2FUX-Material%20%7C%20Cupertino%20%7C%20Custom-FF4081?style=for-the-badge&logo=materialdesign" />
+  <img src="https://img.shields.io/badge/Architecture-Clean%20%7C%20MVVM%20%7C%20MVC-4CAF50?style=for-the-badge&logo=flutter" />
 </p>
 
-## 🛠️ My Skills
+<details>
+<summary><b>🔧 Detailed Flutter Skills</b></summary>
 
-### 👉 Programming languages
+#### State Management
+- **BLoC/Cubit** - Complex state management and business logic
+- **Provider** - Lightweight state management solutions
+- **Riverpod** - Modern reactive caching framework
+- **GetX** - High-performance state management
 
-<p align="center"> 
-  &emsp;
-   </a>
-  &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
-  </a>
-  <a href="https://dart.dev/" target="_blank"> 
-    <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=dart&logoColor=white">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
-</p>
+#### UI/UX Development
+- **Custom Widgets** - Creating reusable, animated components
+- **Responsive Design** - Adaptive layouts for all screen sizes
+- **Material Design 3** - Latest Google design principles
+- **Cupertino** - iOS-style components and navigation
 
-### 👉 Frontend Development
-<p align="center"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-  </a> 
-&emsp;
-  <a href="https://flutter.dev/" target="_blank">
-    <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white">
-  </a> 
-</p>
+#### Backend Integration
+- **REST APIs** - HTTP requests and data parsing
+- **GraphQL** - Efficient data fetching with Ferry/GraphQL
+- **Firebase** - Real-time database, auth, cloud functions
+- **Socket.io** - Real-time communication
 
+#### Testing & Performance
+- **Unit Testing** - Business logic validation
+- **Widget Testing** - UI component testing
+- **Integration Testing** - End-to-end testing
+- **Performance Optimization** - Memory management and rendering
 
- ### 👉 Software & Tools
- 
+</details>
+
+### 👉 Programming Languages & Frameworks
+
 <p align="center">
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=plastic&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=plastic&logo=swift&logoColor=white" />
 </p>
 
+### 🛠️ Development Tools & Platforms
 
-### 👉 IDEs
- 
 <p align="center">
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt="Atom" src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=plastic&logo=androidstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=plastic&logo=xcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=plastic&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=plastic&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white" />
 </p>
 
- ### 👉 Competitive Programming & Problem Solving
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
-  &emsp;
-    <a href="#"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
-  &emsp;
-    <a href="#"><img alt = "Huckerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "Google" src="https://img.shields.io/badge/google-%234285F4.svg?style=plastic&logo=google&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "Codin Game" src="https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" /></a>
-</p>
+## 📱 Featured Flutter Projects
 
- ### 👉 Operating Systems
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/pop!_os-%2348B9C7.svg?style=plastic&&logo=pop!_os&logoColor=white" /></a>	  
-</p>
+<div align="center">
+  
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🚀 **E-Commerce App** | Full-featured shopping app with payment integration | Flutter, Firebase, Stripe |
+| 📱 **Social Media Platform** | Real-time chat and content sharing | Flutter, BLoC, WebSocket |
+| 🎵 **Music Streaming App** | Audio player with offline capabilities | Flutter, Provider, SQLite |
+| 📊 **Business Dashboard** | Analytics and reporting tool | Flutter, GetX, REST API |
 
-<br/>
+</div>
 
+## 📊 Detailed GitHub Analytics
 
-## 📊 Github Stats
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhamadhaydar&theme=tokyonight" alt="Profile Details" width="100%" />
+</div>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhamadhaydar&theme=tokyonight" alt="Repos per Language" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muhamadhaydar&theme=tokyonight" alt="Most Commit Language" width="49%" />
+</div>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhamadhaydar&theme=tokyonight" alt="Stats" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muhamadhaydar&theme=tokyonight&utcOffset=3" alt="Productive Time" width="49%" />
+</div>
 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Muhamad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=muhamadhaydar&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Muhamadhaydar&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="MuhamadHaydar" height="192px"/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
+## 🏆 GitHub Achievements
 
-----
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=muhamadhaydar&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
 
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/MuhamadHaydar"><img alt="MuhamadHaydar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MuhamadHaydar&custom_title=MuhamadHaydar's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
+## 📈 Contribution Activity
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhamadhaydar&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Graph" width="100%" />
+</div>
 
-<br/>
+## 🎯 Flutter Ecosystem Contributions
 
-## :trophy: Git profile Trophies
+<div align="center">
+  
+  ![Pub.dev](https://img.shields.io/badge/pub.dev-Contributor-02569B?style=for-the-badge&logo=dart&logoColor=white)
+  ![Open Source](https://img.shields.io/badge/Open%20Source-Active-4CAF50?style=for-the-badge&logo=github&logoColor=white)
+  ![Community](https://img.shields.io/badge/Flutter%20Community-Member-FF6B6B?style=for-the-badge&logo=flutter&logoColor=white)
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MuhamadHaydar&layout=compact&theme=algolia" alt="MuhamadHaydar" /></a> </p>
+</div>
 
+## 💬 Let's Connect & Collaborate
 
+<div align="center">
+  
+  [![Email](https://img.shields.io/badge/Email-muhamad.haydar%4024group.net-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhamad.haydar@24group.net)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-muhamadhaydarjawad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhamadhaydarjawad/)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-+964%20750%20717%201446-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/9647507171446?text=)
+  [![Telegram](https://img.shields.io/badge/Telegram-@muhamadhaydar-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](tg://msg?text=%22Hello%22&to=+9647507171446)
 
+</div>
 
+---
 
-
-
-
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=muhamadhaydar&color=02569B&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  
+  <br><br>
+  
+  **💫 "Building the future, one Flutter app at a time" 💫**
+  
+  <sub>⭐ Don't forget to star my repositories if you find them useful!</sub>
+</div>
