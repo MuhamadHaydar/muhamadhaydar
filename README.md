@@ -31,7 +31,6 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhamadhaydar&theme=tokyonight&hide_border=true&stroke=0000&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=muhamadhaydar&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&icon_color=00D9FF&title_color=00D9FF" alt="GitHub Stats" width="49%" />
 </div>
 
 <div align="center">
